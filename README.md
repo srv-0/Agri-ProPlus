@@ -1,19 +1,15 @@
 # Agri ProPlus 
-
-![Project Status](https://img.shields.io/badge/Status-Active-success)
-![License](https://img.shields.io/badge/License-MIT-blue)
-
 **Agri ProPlus** is an extensive agriculture assistance tool designed to empower farmers with data-driven insights. It bridges the gap between modern technology and traditional farming by integrating real-time news, government scheme data, and AI-based crop recommendations.
 
 ---
 
 ##  Key Features
 
-* [cite_start]**🤖 AI-Powered Crop Recommendation:** Implemented an LSTM-based Artificial Neural Network (ANN) model that predicts optimal crops based on soil and weather parameters with **98.48% accuracy**[cite: 63].
-* [cite_start]**📰 Information Hub:** Aggregates real-time farming news and educational content using **YouTube and News APIs**[cite: 61].
-* [cite_start]**🏛 Government Schemes Tracker:** Features a custom **Python scraper** that extracts and updates the latest agricultural schemes data, serving it through a Node.js backend[cite: 62].
-* [cite_start]**🔐 Secure Authentication:** Robust user login and profile management powered by **Firebase**[cite: 62].
-* [cite_start]**📱 Modern UI/UX:** A responsive frontend built with **React** and **Chakra UI** for an accessible user experience[cite: 61].
+* [cite_start]** AI-Powered Crop Recommendation:** Implemented an LSTM-based Artificial Neural Network (ANN) model that predicts optimal crops based on soil and weather parameters with **98.48% accuracy**[cite: 63].
+* [cite_start]** Information Hub:** Aggregates real-time farming news and educational content using **YouTube and News APIs**[cite: 61].
+* [cite_start]** Government Schemes Tracker:** Features a custom **Python scraper** that extracts and updates the latest agricultural schemes data, serving it through a Node.js backend[cite: 62].
+* [cite_start]** Secure Authentication:** Robust user login and profile management powered by **Firebase**[cite: 62].
+* [cite_start]** Modern UI/UX:** A responsive frontend built with **React** and **Chakra UI** for an accessible user experience[cite: 61].
 
 ---
 
@@ -108,8 +104,6 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ---
 
 ##  Author
-
 **Saurav Singh**
-* **Portfolio:** [Link to your new portfolio website]
 * **LinkedIn:** [saurav-singh-srv16](https://linkedin.com/in/saurav-singh-srv16)
 * **GitHub:** [saurav-singh-srv16](https://github.com/saurav-singh-srv16)
