@@ -5,8 +5,8 @@
 
 ##  Key Features
 
-**AI-Powered Crop Recommendation:** Implemented an LSTM-based Artificial Neural Network (ANN) model that predicts optimal crops based on soil and weather parameters with **98.48% accuracy**
-**Information Hub:** Aggregates real-time farming news and educational content using **YouTube and News APIs**
+**AI-Powered Crop Recommendation:** Implemented an LSTM-based Artificial Neural Network (ANN) model that predicts optimal crops based on soil and weather parameters with **98.48% accuracy**. 
+**Information Hub:** Aggregates real-time farming news and educational content using **YouTube and News APIs**.
 **Government Schemes Tracker:** Features a custom **Python scraper** that extracts and updates the latest agricultural schemes data, serving it through a Node.js backend
 **Secure Authentication:** Robust user login and profile management powered by **Firebase**
 **Modern UI/UX:** A responsive frontend built with **React** and **Chakra UI** for an accessible user experience
