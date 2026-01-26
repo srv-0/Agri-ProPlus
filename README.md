@@ -100,4 +100,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 **Saurav Singh**
 
 * **LinkedIn:** [saurav-singh-srv16](https://linkedin.com/in/saurav-singh-srv16)
-* **GitHub:** [saurav-singh-srv16](https://github.com/saurav-singh-srv16)
+* **GitHub:** [saurav-singh-srv16](https://github.com/srv-0)
