@@ -5,11 +5,11 @@
 
 ##  Key Features
 
-**AI-Powered Crop Recommendation:** Implemented an LSTM-based Artificial Neural Network (ANN) model that predicts optimal crops based on soil and weather parameters with **98.48% accuracy**. 
-**Information Hub:** Aggregates real-time farming news and educational content using **YouTube and News APIs**.
-**Government Schemes Tracker:** Features a custom **Python scraper** that extracts and updates the latest agricultural schemes data, serving it through a Node.js backend
-**Secure Authentication:** Robust user login and profile management powered by **Firebase**
-**Modern UI/UX:** A responsive frontend built with **React** and **Chakra UI** for an accessible user experience
+* **AI-Powered Crop Recommendation:** Implemented an LSTM-based Artificial Neural Network (ANN) model that predicts optimal crops based on soil and weather parameters with **98.48% accuracy**.
+* **Information Hub:** Aggregates real-time farming news and educational content using **YouTube and News APIs**.
+* **Government Schemes Tracker:** Features a custom **Python scraper** that extracts and updates the latest agricultural schemes data, serving it through a Node.js backend
+* **Secure Authentication:** Robust user login and profile management powered by **Firebase**
+* **Modern UI/UX:** A responsive frontend built with **React** and **Chakra UI** for an accessible user experience
 
 ---
 
@@ -29,14 +29,6 @@
 * ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) **Python**
 * **TensorFlow/Keras** (LSTM Model)
 * **BeautifulSoup/Selenium** (Web Scraping)
-
----
-
-##  Screenshots
-
-| Dashboard | Crop Prediction |
-|:---:|:---:|
-| ![Dashboard Screenshot](path/to/dashboard.png) | ![AI Model Screenshot](path/to/prediction.png) |
 
 ---
 
@@ -104,6 +96,8 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ---
 
 ##  Author
+
 **Saurav Singh**
+
 * **LinkedIn:** [saurav-singh-srv16](https://linkedin.com/in/saurav-singh-srv16)
 * **GitHub:** [saurav-singh-srv16](https://github.com/saurav-singh-srv16)
