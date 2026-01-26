@@ -47,7 +47,7 @@ The application follows a decoupled architecture:
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/saurav-singh-srv16/Agri-ProPlus.git
+    git clone https://github.com/srv-0/Agri-ProPlus.git
     cd Agri-ProPlus
     ```
 
