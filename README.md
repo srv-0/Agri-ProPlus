@@ -16,17 +16,17 @@
 ##  Tech Stack
 
 ### Frontend
-* ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) **React.js**
-* ![Chakra UI](https://img.shields.io/badge/Chakra%20UI-319795?style=flat&logo=chakraui&logoColor=white) **Chakra UI**
+* ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+* ![Chakra UI](https://img.shields.io/badge/Chakra%20UI-319795?style=flat&logo=chakraui&logoColor=white)
 * **Context API** (State Management)
 
 ### Backend & Database
-* ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) **Node.js & Express.js**
-* ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) **MongoDB**
-* ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) **Firebase Auth**
+* ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+* ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) 
+* ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ### AI & Data Science
-* ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) **Python**
+* ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
 * **TensorFlow/Keras** (LSTM Model)
 * **BeautifulSoup/Selenium** (Web Scraping)
 
@@ -35,6 +35,7 @@
 ##  Architecture
 
 The application follows a decoupled architecture:
+
 1.  **Data Ingestion:** Python scripts scrape government websites and fetch API data.
 2.  **Processing:** Data is cleaned and stored in MongoDB. The ML model runs as a microservice/script to process inputs.
 3.  **API Layer:** Node.js/Express serves this data to the frontend.
@@ -46,7 +47,7 @@ The application follows a decoupled architecture:
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/saurav-singh-srv16/Agri-ProPlus.git](https://github.com/saurav-singh-srv16/Agri-ProPlus.git)
+    git clone https://github.com/saurav-singh-srv16/Agri-ProPlus.git
     cd Agri-ProPlus
     ```
 
